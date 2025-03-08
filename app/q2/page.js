@@ -2,7 +2,7 @@ export default function Page() {
     return (
       <div style={{ padding: "20px", fontFamily: "Arial, sans-serif", maxWidth: "800px", margin: "0 auto", lineHeight: "1.6" }}>
         <h2>Question 2</h2>
-        <h3>Subject: Breaking Down Fluid Compute for Your AI Playlists</h3>
+        <h3>Subject: Understanding Fluid Compute for Your Team</h3>
   
         <p>Hi Trevor,</p>
   
