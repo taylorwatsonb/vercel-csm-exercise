@@ -15,14 +15,14 @@ export default function Page() {
         <p>
           React is great for building interactive UI components, but it doesn’t handle full-page optimization out of the box.  
           Next.js builds on React and adds performance, SEO, and scalability features that help marketing pages load faster and rank better.  
-          <a href="https://nextjs.org/learn/foundations/about-nextjs" target="_blank" rel="noopener noreferrer">Learn more about Next.js</a>.
+          <a href="https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs" target="_blank" rel="noopener noreferrer">Learn more about Next.js</a>.
         </p>
   
         <h4 style={{ marginTop: "20px" }}>Why Next.js is a Better Fit for Marketing Pages</h4>
         <ul>
           <li>
             Better Performance – Pages are pre-built using  
-            <a href="https://nextjs.org/docs/basic-features/pages#static-generation-recommended" target="_blank" rel="noopener noreferrer">
+            <a href="https://vercel.com/blog/nextjs-server-side-rendering-vs-static-generation" target="_blank" rel="noopener noreferrer">
               Static Generation</a>, so they load instantly instead of waiting for the browser to render content.
           </li>
           <li>
@@ -32,7 +32,7 @@ export default function Page() {
           <li>
             Faster Load Times = Higher Conversions – Studies show even a 1-second delay can drop conversion rates.  
             Next.js improves  
-            <a href="https://nextjs.org/learn/seo/improve" target="_blank" rel="noopener noreferrer">
+            <a href="https://vercel.com/blog/how-core-web-vitals-affect-seo" target="_blank" rel="noopener noreferrer">
               Core Web Vitals</a> like LCP and FCP, keeping visitors engaged.
           </li>
           <li>

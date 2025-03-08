@@ -15,7 +15,7 @@ export default function Page() {
         <p>
           It’s Vercel’s flexible approach to running server-side code—similar to Functions, but without the cold starts and idle inefficiencies.  
           It allows multiple requests at once, making it ideal for AI-heavy workloads.  
-          <a href="https://vercel.com/blog/fluid-compute" target="_blank" rel="noopener noreferrer"> Here’s a deeper look</a>.
+          <a href="https://vercel.com/blog/introducing-fluid-compute" target="_blank" rel="noopener noreferrer"> Here’s a deeper look</a>.
         </p>
   
       
