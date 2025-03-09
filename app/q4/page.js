@@ -12,10 +12,10 @@ export default function Q4() {
           </a>
         </p>
         <p>
-          In the video, I walk through a PageSpeed Insights analysis of a popular retail site (you can check the link they gave us!). Here’s a quick recap of what I found, plus some tips to make things even better:
+          In the video, I walk through a PageSpeed Insights analysis of a popular retail site. Here’s a quick recap of what I found, plus some tips to make things even better:
         </p>
         <p>
-          - Biggest Wins to Tackle:<br />
+          Biggest Wins to Tackle:<br />
           - Optimize Images: Shrink those big pics to speed up loading. Vercel’s got a solid guide for this: <a href="https://vercel.com/docs/concepts/image-optimization">https://vercel.com/docs/concepts/image-optimization</a>.<br />
           - Cut Down on Clutter: Less CSS and JavaScript can stop those annoying page shifts. Next.js has some neat tricks here: <a href="https://nextjs.org/docs/app/building-your-application/optimizing">https://nextjs.org/docs/app/building-your-application/optimizing</a>.<br />
           - Keep an Eye on Things: Use Vercel Analytics to track progress. Check it out: <a href="https://vercel.com/docs/platform/usage">https://vercel.com/docs/platform/usage</a>.
